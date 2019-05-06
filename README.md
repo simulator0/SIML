@@ -19,9 +19,8 @@ Preferences of this tool:
    - direct post-processing of in memory data
    - data model allows for direct slicing/indexing/aggregating
 
-The structure of the framework is outlined in the [Wiki](https://github.com/simulator0/SIML/wiki). The Wiki describes the workflow and explains the existing models/resources, accompanied by multiple examples.  
-Simulations regarding electrical power flow rather than energy balances (used in this tool), are conducted via file import/export to [OpenDSS](https://sourceforge.net/projects/electricdss/).
+The structure of the framework is outlined in the [Wiki](https://github.com/simulator0/SIML/wiki). The Wiki describes the workflow and explains the existing models/resources, accompanied by multiple examples. Simulations regarding electrical power flow rather than energy balances (used in this tool), are conducted via file import/export to [OpenDSS](https://sourceforge.net/projects/electricdss/).
 
 # Install
 
-There are no installation requirements beside a functional [jupyter notebook](https://jupyter.readthedocs.io/en/latest/install.html) (JPN) based on python 3. The template is also available in (template.hmtl)[] to review simulated examples.
+There are no installation requirements beside a functional [jupyter notebook](https://jupyter.readthedocs.io/en/latest/install.html) based on python 3. The template is also available in [template.hmtl](https://github.com/simulator0/SIML/blob/master/main_template.html) to review simulated examples.
