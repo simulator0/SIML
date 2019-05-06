@@ -1,6 +1,6 @@
 # MiniDES
 
-![commtree](https://github.com/simulator0/SIML/blob/master/wiki_images/commtree.png)
+<img src="https://github.com/simulator0/SIML/blob/master/wiki_images/commtree.png" alt="commtree" width="10%"/>
 
 The lightweight Distribution-Energy-Simulator (DES) is a basic framework to model distributed energy resources, allowing synchronized time progress on arbitrary resource sets and incorporating queries to ease control and post-processing. 
 Communities are built bottom up as a collection of resource sets/subsets to enable modular and customizable simulation setups. The entire framework resides within a jupyter notebook, offering a template to start modeling right away. It is open source available.
