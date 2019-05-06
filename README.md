@@ -24,3 +24,6 @@ The structure of the framework is outlined in the [Wiki](https://github.com/simu
 # Install
 
 There are no installation requirements beside a functional [jupyter notebook](https://jupyter.readthedocs.io/en/latest/install.html) based on python 3. The template is also available in [template.hmtl](http://htmlpreview.github.com/simulator0/SIML/blob/master/main_template.html) to review simulated examples.
+[template.hmtl]()
+
+[aa](http://htmlpreview.github.com/?http://htmlpreview.github.com/simulator0/SIML/blob/master/main_template.html)
