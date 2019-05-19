@@ -27,5 +27,5 @@ There are no installation requirements beside a functional [jupyter notebook](ht
 
 The following paper accommodates the work and can be cited as:
 ```
-TODO add bibtex meld->>
+ADD bibtex
 ```
